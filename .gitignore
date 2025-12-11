@@ -1,0 +1,4 @@
+*.tr
+venv/
+
+tresh.txt
